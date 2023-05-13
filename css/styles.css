@@ -1,0 +1,30 @@
+body {
+  background-color: #f8e9a6;
+}
+h1,
+p {
+  text-align: center;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.footer {
+  color: green;
+  text-align: center;
+  display: block;
+}
+
+a:hover {
+  color: green;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
